@@ -8,3 +8,19 @@ wheels/
 
 # Virtual environments
 .venv
+.AI_env
+AI_env/
+
+
+# Datasets and models
+chat_gpt2/gpt_models/
+chat_gpt2/input.txt
+chat_gpt2/model-gpt2.safetensors
+chat_gpt2/gpt2/
+
+chat_gpt2/instruction-data.json
+chat_gpt2/instruction-data-with-preference.json
+chat_gpt2/oasst1.json
+chat_gpt2/preference_700k_5000_samples.json
+chat_gpt2/preference_reward_model_data.json
+chat_gpt2/reward_data.json
