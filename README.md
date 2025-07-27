@@ -8,7 +8,7 @@ This repository provides a comprehensive framework for working with GPT-2 models
 
 The following diagram illustrates the overall workflow and model relationships in this project:
 
-![GPT-2 Workflow](public/gpt2_workflow.png)
+![GPT-2 Workflow](public/GPT-2_Rohit_Pawar.png)
 
 - **GPT-2**: The base pretrained model from OpenAI, serving as the foundation for all further training and adaptation.
 
